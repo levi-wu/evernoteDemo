@@ -1,0 +1,35 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="view_large_margin">32dp</dimen>
+
+    <!--字体大小-->
+    <dimen name="textView_small_hint">12sp</dimen>
+    <dimen name="textView_normal">14sp</dimen>
+    <dimen name="textView_small_title">16sp</dimen>
+    <dimen name="textView_large_title">24sp</dimen>
+    <dimen name="textView_appbar">20sp</dimen>
+    <!--超大号字体-->
+    <dimen name="textView_large_h">34sp</dimen>
+    <dimen name="textView_large_xh">45sp</dimen>
+    <dimen name="textView_large_xxh">56sp</dimen>
+    <dimen name="textView_large_xxxh">112sp</dimen>
+
+    <!--小图标-->
+    <dimen name="imageView_size">48dp</dimen>
+    <!--cardView间隔-->
+    <dimen name="cardView_margin">8dp</dimen>
+    <!--用户头像-->
+    <dimen name="icon">56dp</dimen>
+
+    <!--控件的elevation-->
+    <dimen name="appBar">4dp</dimen>
+    <dimen name="fab_normal">6dp</dimen>
+    <dimen name="fab_pressed">12dp</dimen>
+    <dimen name="cardView_normal">2dp</dimen>
+    <dimen name="cardView_pressed">8dp</dimen>
+    <dimen name="button_normal">2dp</dimen>
+    <dimen name="button_pressed">2dp</dimen>
+</resources>

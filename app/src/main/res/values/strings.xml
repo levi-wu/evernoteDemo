@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BSHD</string>
+
+    <!--登录界面-->
+    <string name="btn_login">Sign In</string>
+    <string name="btn_login_out">Sign Out</string>
+    <string name="txt_login">You need to sign in to your Evernote account to print from Evernote</string>
+    <string name="snackbar_msg_login">认证失败，是否重新认证？</string>
+    <string name="snackbar_action_login">认证</string>
+
+    <!--network Receiver 的toast-->
+    <string name="network_success">网络已连接</string>
+    <string name="network_failure">您已进入没有网络的异次元</string>
+
+    <string name="toast_authentic_success">认证成功!</string>
+    <!--notebook click-->
+    <string name="snackbar_exception">发生未知错误，请检查网络!</string>
+    <string name="snackbar_success">更新成功!</string>
+    <string name="snackbar_created">创建成功!</string>
+
+    <string name="empty_fragment_txt">Empty Note，Please add！</string>
+    <!--fragment note edit-->
+    <string name="editxt_hint">What is on your mind?</string>
+</resources>
