@@ -52,8 +52,8 @@ public class NotebookInfoActivity extends BaseActivity implements View.OnClickLi
      */
     @Override
     protected void init() {
-        getWindow().setEnterTransition(new Slide(Gravity.LEFT));
-        getWindow().setExitTransition(new Slide(Gravity.RIGHT));
+//        getWindow().setEnterTransition(new Slide(Gravity.LEFT));
+//        getWindow().setExitTransition(new Slide(Gravity.RIGHT));
         //获得启动intent
         Intent intent = getIntent();
         guid = intent.getStringExtra(ConstantUtils.KEY);

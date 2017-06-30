@@ -145,8 +145,8 @@ public class NotebookFragment extends BaseFragment implements RecyclerViewCallba
         }
 
         //动画跳转
-        mMain.getWindow().setExitTransition(new Fade());
-        mMain.getWindow().setEnterTransition(new Explode());
+//        mMain.getWindow().setExitTransition(new Fade());
+//        mMain.getWindow().setEnterTransition(new Explode());
         //页面跳转
         Intent intent = new Intent(mMain, NotebookInfoActivity.class);
         intent.putExtra(ConstantUtils.KEY, guid);
